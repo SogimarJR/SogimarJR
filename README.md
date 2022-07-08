@@ -47,6 +47,7 @@ A self-motivated tech enthusiast and full stack web developer.
   <img align="center" alt="SogimarJR-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
 </div>
 
+<br />
 <p>and more...</P>
    
 ### Infrastructure and DevOps
@@ -59,6 +60,7 @@ A self-motivated tech enthusiast and full stack web developer.
   <img align="center" alt="SogimarJR-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
 </div>
 
+<br />
 <p>and more...</P>
 
 ### IDEs and Tools
@@ -76,4 +78,5 @@ A self-motivated tech enthusiast and full stack web developer.
   <img align="center" alt="SogimarJR-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
 </div>
 
+<br />
 <p>and more...</P>
