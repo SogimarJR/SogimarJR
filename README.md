@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋 I'm Sogimar Junior</h3>
 
 <p align="center">
-I'm Sogimar Junior, a self-motivated tech enthusiast and full stack web developer.
+A self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+<img src="https://github.com/SogimarJR/SogimarJR/blob/main/stacks.png" alt="stacks"/>
 </h3>
 
 ### Languages
