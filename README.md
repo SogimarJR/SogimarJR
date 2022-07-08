@@ -20,8 +20,6 @@ A self-motivated tech enthusiast and full stack web developer.
 
 ## My Tech Stacks
 
-<br />
-
 ### Languages
 <div style="display: inline_block">
   <img align="center" alt="SogimarJR-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
