@@ -20,6 +20,8 @@ A self-motivated tech enthusiast and full stack web developer.
 
 ## My Tech Stacks
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-temaplte-rows: 1fr: 1fr; grid-row-gap: 5px;">
+
 ### Languages
 <div style="display: inline_block">
   <img align="center" alt="SogimarJR-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -66,4 +68,4 @@ A self-motivated tech enthusiast and full stack web developer.
   <img align="center" alt="SogimarJR-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
 </div>
 
-<br />
+</div>
